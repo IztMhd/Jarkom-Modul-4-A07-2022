@@ -7,6 +7,7 @@
 - Muhammad Damas Abhirama (5025201271)
 
 ## Pembagian Subnet
+Membuat topologi seperti berikut pada cisco packet tracer
 
 ![topologi!](img/topo.png)
 
@@ -15,6 +16,7 @@
 ![VLSM!](img/Tree_VLSM.png)
 
 ## Perhitungan IP
+Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnetdan melakukan labeling pada netmask bedasarkan jumlah ip yang dibutuhkan.
 
 ![ip!](img/perhitunganIP1.png)
 
