@@ -21,3 +21,6 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnetdan melakukan labeli
 ![ip!](img/perhitunganIP1.png)
 
 ![ip!](img/perhitunganIP2.png)
+
+## Kendala
+
